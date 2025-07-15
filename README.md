@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Backen-end and Dev-ops
 - 👯 I’m looking to collaborate on any project that challenges me
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: I have a degree in physics
 
 <div align="center">
   <a href="https://github.com/renatovascon">
