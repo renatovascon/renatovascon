@@ -1,7 +1,7 @@
 ### Hi there I'm Renato Vasconcelos
 
-🔭 I'm currently focused on Full-stack development, building complete solutions from front-end to back-end.
-🌱 My current learning journey is centered on Software Architecture. I'm dedicated to building robust, scalable, and clean systems.
+- 🔭 I'm currently focused on Full-stack development, building complete solutions from front-end to back-end.
+- 🌱 My current learning journey is centered on Software Architecture. I'm dedicated to building robust, scalable, and clean systems.
 - 👯 I’m looking to collaborate on any project that challenges me
 - 😄 Pronouns: He/his
 
